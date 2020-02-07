@@ -1,0 +1,5 @@
+Nama Kandidat	: Nugroho Lesmana Putra
+Posisi 		: PHP Developer
+
+Framework 	: Codeigniter 3.1.1
+Pendukung 	: Bootstrap, Jquery

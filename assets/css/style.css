@@ -1,0 +1,39 @@
+body{
+    background:#fafafa;
+}
+label{
+    font-weight: 500;
+}
+h1{
+    font-size: 2rem;
+}
+a{
+    color: #005dac;
+}
+a:hover{
+    color:#064173;
+}
+
+.card-content{
+    padding: 15px;
+    background-color: #fff;
+    box-shadow: 0px 2px 2px #b5b4b4;
+}
+
+.footer{
+    background: #444;
+    padding: 15px 0px;
+    color: #fff;
+}
+
+/* Bootstrap Custom */
+.bg-light{
+    background-color: #fff !important;
+}
+.navbar-brand{
+    color:#fff !important;
+}
+.page-item.active .page-link{
+    background-color:#005dac !important;
+    border-color: #005dac !important;
+}
